@@ -23,3 +23,13 @@ Um breakdown inicial, a ser testado:
 Acórdão TCU n. 1.817/2017 e o marcador regionalização de que fala o MTO 2021.
 
 Estudos anteriores? IPEA, Senado.
+
+* https://dados.gov.br/dataset/orcamento-federal-acompanhamento-fisico-financeiro-das-acoes-orcamentarias
+
+* Regionalização do Orçamento da União: Planejamento e Controle da Ação Governamental (2008)
+https://www2.senado.leg.br/bdsf/bitstream/handle/id/162779/Regionalizacao%20do%20Orcamento%20-%20Fernando%20Lucas%20Pinto.pdf?sequence=4&isAllowed=y
+
+
+
+
+
